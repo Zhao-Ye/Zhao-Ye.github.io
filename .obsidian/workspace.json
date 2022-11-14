@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "906723a2aec5bdc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd23b98d4400de2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cfbb9d79c214e32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows/设置英文路径文件夹的中文名称.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c15e6550a03a9dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "81b9b4ef20cebb89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a57f8b1b67f4694",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44f34d9d4563c3a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5162e429d46b4749",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d12349616a9f9b0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "61d46fdab0fb453d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd8a8aa0b4ec659a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Windows/设置英文路径文件夹的中文名称.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df6cf76201901431",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Windows/设置英文路径文件夹的中文名称.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9955034a3490fd54",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3e00b69b7f7c8287",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Windows/设置英文路径文件夹的中文名称.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "dd8a8aa0b4ec659a",
+  "lastOpenFiles": [
+    "README.md",
+    "_sidebar.md",
+    "_coverpage.md",
+    "Windows/设置英文路径文件夹的中文名称.md",
+    "[[Windows/设置英文路径文件夹的中文名称]].md"
+  ]
+}

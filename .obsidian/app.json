@@ -1,0 +1,12 @@
+{
+  "showLineNumber": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "未整理文档",
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": ".attachments",
+  "userIgnoreFilters": [
+    "_sidebar"
+  ]
+}
