@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dd23b98d4400de2b",
+        "id": "0396db186afdc393",
         "type": "tabs",
         "children": [
           {
-            "id": "2cfbb9d79c214e32",
+            "id": "9737e119e50f7c57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/设置英文路径文件夹的中文名称.md",
+                "file": "机动车检测/期间核查/底盘测功机期间核查.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 204.5,
+    "collapsed": true
   },
   "right": {
     "id": "d12349616a9f9b0d",
@@ -85,8 +86,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/设置英文路径文件夹的中文名称.md",
-                "collapseAll": false,
+                "file": "机动车检测/期间核查/底盘测功机期间核查.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/设置英文路径文件夹的中文名称.md",
+                "file": "机动车检测/期间核查/底盘测功机期间核查.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,22 +126,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/设置英文路径文件夹的中文名称.md"
+                "file": "机动车检测/期间核查/底盘测功机期间核查.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "dd8a8aa0b4ec659a",
+  "active": "9737e119e50f7c57",
   "lastOpenFiles": [
+    "机动车检测/标准/GB-T 37536/GB-T 37536-2019 《机动车检验机构检测设备期间核查规范》.md",
+    "机动车检测/期间核查/底盘测功机期间核查.md",
+    "未整理文档/希腊字母常用指代意义及其中文读音.md",
+    "未整理文档/LaTeX.md",
+    "未整理文档/传递测量法.md",
+    "机动车检测/标准/GB-T 37536/GB-T 37536-2019 《机动车检验机构检测设备期间核查规范》.pdf",
+    "Windows/设置英文路径文件夹的中文名称.md",
     "README.md",
     "_sidebar.md",
-    "_coverpage.md",
-    "Windows/设置英文路径文件夹的中文名称.md",
-    "[[Windows/设置英文路径文件夹的中文名称]].md"
+    "_coverpage.md"
   ]
 }
