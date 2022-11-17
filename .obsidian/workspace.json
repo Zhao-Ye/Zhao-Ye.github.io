@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fc8a7cba7475a8fc",
+        "id": "a1f98dc230ea99ca",
         "type": "tabs",
         "children": [
           {
-            "id": "eecea9e34fe04bbc",
+            "id": "4fd23ae976b81b2a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "机动车检测/期间核查/底盘测功机期间核查.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45933168653fe4a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "万和车检/环保/1号线/设备.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "万和车检/环保/1号线/设备.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "万和车检/环保/1号线/设备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "万和车检/环保/1号线/设备.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "45933168653fe4a8",
+  "active": "4fd23ae976b81b2a",
   "lastOpenFiles": [
-    "机动车检测/期间核查/底盘测功机期间核查.md",
     "机动车检测/标准/GB-T 37536/GB-T 37536-2019 《机动车检验机构检测设备期间核查规范》.md",
+    "机动车检测/标准/GB-T 37536/GB-T 37536-2019 《机动车检验机构检测设备期间核查规范》.pdf",
+    "机动车检测/期间核查/底盘测功机期间核查.md",
+    "万和车检/环保/1号线/设备.md",
     "未整理文档/希腊字母常用指代意义及其中文读音.md",
     "未整理文档/LaTeX.md",
     "未整理文档/传递测量法.md",
-    "机动车检测/标准/GB-T 37536/GB-T 37536-2019 《机动车检验机构检测设备期间核查规范》.pdf",
     "Windows/设置英文路径文件夹的中文名称.md",
     "README.md",
-    "_sidebar.md",
-    "_coverpage.md"
+    "_sidebar.md"
   ]
 }
