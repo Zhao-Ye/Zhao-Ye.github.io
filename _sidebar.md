@@ -1,4 +1,8 @@
-﻿- Windows
+﻿- Blazor
+	- [Blazor Component 捕获自定义属性.md](Blazor%2fBlazor%20Component%20%e6%8d%95%e8%8e%b7%e8%87%aa%e5%ae%9a%e4%b9%89%e5%b1%9e%e6%80%a7.md)
+- C#
+	- (●′ω`●) 知识的荒野
+- Windows
 	- [设置英文路径文件夹的中文名称.md](Windows%2f%e8%ae%be%e7%bd%ae%e8%8b%b1%e6%96%87%e8%b7%af%e5%be%84%e6%96%87%e4%bb%b6%e5%a4%b9%e7%9a%84%e4%b8%ad%e6%96%87%e5%90%8d%e7%a7%b0.md)
 - 万和车检
 	- 环保

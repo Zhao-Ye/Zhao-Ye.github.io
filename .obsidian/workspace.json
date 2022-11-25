@@ -11,8 +11,12 @@
             "id": "4fd23ae976b81b2a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Blazor/Blazor Component 捕获自定义属性.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 204.5,
+    "collapsed": true
   },
   "right": {
     "id": "d12349616a9f9b0d",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Blazor/Blazor Component 捕获自定义属性.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Blazor/Blazor Component 捕获自定义属性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Blazor/Blazor Component 捕获自定义属性.md"
+              }
             }
           }
         ]
