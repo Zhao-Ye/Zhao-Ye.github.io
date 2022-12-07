@@ -5,9 +5,11 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "未整理文档",
   "newLinkFormat": "absolute",
-  "attachmentFolderPath": ".attachments",
+  "attachmentFolderPath": "./attachments",
   "userIgnoreFilters": [
     "_sidebar.md",
     "_coverpage.md"
-  ]
+  ],
+  "strictLineBreaks": true,
+  "useMarkdownLinks": true
 }

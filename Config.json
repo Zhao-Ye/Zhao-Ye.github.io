@@ -3,7 +3,8 @@
     ".git",
     ".obsidian",
     ".trash",
-    ".attachments"
+    ".attachments",
+    "attachments"
   ],
   "ExcludeFiles": [
     "README.md",

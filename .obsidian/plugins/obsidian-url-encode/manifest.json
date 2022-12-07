@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-url-encode",
+	"name": "Url转码",
+	"version": "0.0.0",
+	"minAppVersion": "1.0.3",
+	"description": "对url进行转码以供web访问",
+	"author": "Z",
+	"authorUrl": "https://zhao-ye.github.io/",
+	"isDesktopOnly": false
+}
