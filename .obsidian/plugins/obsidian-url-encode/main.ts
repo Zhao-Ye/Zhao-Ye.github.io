@@ -2,11 +2,11 @@ import { App, Editor, moment, MarkdownView, Modal, Notice, Plugin, PluginSetting
 
 // Settings 接口
 interface URLEncodeSettings {
-	mySetting: string;
+	defaultUrl: string;
 }
 // Settings 初始值
 const DEFAULT_SETTINGS: URLEncodeSettings = {
-	mySetting: 'default'
+	defaultUrl: 'default'
 }
 
 export default class URLEncode extends Plugin {
@@ -21,7 +21,7 @@ export default class URLEncode extends Plugin {
 			name: "URL编码",
 			editorCallback: (editor: Editor) => {
 			  const selection = editor.getSelection();
-			  editor.replaceSelection(encodeURI(selection.replace(/\\/g,'/')).replace(/\//g,"%2f").replace('#',"%23"));
+			  editor.replaceSelection(this.settings.defaultUrl + encodeURI(selection.replace(/\\/g,'/')).replace(/\//g,"%2f").replace('#',"%23"));
 			},
 		  });
 
@@ -75,14 +75,14 @@ class SampleSettingTab extends PluginSettingTab {
 		containerEl.createEl('h2', {text: 'Url 转码设置'});
 
 		new Setting(containerEl)
-			.setName('设置')
-			.setDesc('It\'s a secret')
+			.setName('默认url')
+			.setDesc('默认url会自动拼接文件路径 如 默认url为 https://www.baidu.com 文件路径为 /1/2/3.jpg 最终路径为 https://www.baidu.com/1/2/3.jpg')
 			.addText(text => text
-				.setPlaceholder('Enter your secret')
-				.setValue(this.plugin.settings.mySetting)
+				.setPlaceholder('请输入默认 url')
+				.setValue(this.plugin.settings.defaultUrl)
 				.onChange(async (value) => {
-					console.log('Secret: ' + value);
-					this.plugin.settings.mySetting = value;
+					console.log('URL: ' + value);
+					this.plugin.settings.defaultUrl = value;
 					await this.plugin.saveSettings();
 				}));
 	}
