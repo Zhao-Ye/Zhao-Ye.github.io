@@ -19,3 +19,6 @@ public class ContainerTagHelper : TagHelper
  }  
 }
 ```
+
+原因：TagHelper 会自动把 Pascal 命名翻译为小写加-形式
+如：BreakPoint    会被翻译为 break-point
