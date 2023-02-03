@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "448ca5cb332b14f9",
+        "id": "04d5709e92246d10",
         "type": "tabs",
         "children": [
           {
-            "id": "c353a97e18bdd34a",
+            "id": "7d9393984deacc4d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -140,8 +140,9 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "c353a97e18bdd34a",
+  "active": "7d9393984deacc4d",
   "lastOpenFiles": [
+    "C#/MVC/全球化和本地化.md",
     "C#/性能测试/Enum 获取 Description 性能问题.md",
     "C#/性能测试/attachments/2023-01-17 143752.png",
     "未整理文档/C.md",
@@ -150,7 +151,6 @@
     "README.md",
     "批处理/远程计算机共享目录自动登录.md",
     "_sidebar.md",
-    "C#/性能测试/attachments/Pasted image 20221207113356.png",
-    "C#/性能测试/attachments/Pasted image 20221207113559.png"
+    "C#/性能测试/attachments/Pasted image 20221207113356.png"
   ]
 }

@@ -1,6 +1,8 @@
-﻿- Blazor
-	- [Blazor Component 捕获自定义属性.md](Blazor%2fBlazor%20Component%20%e6%8d%95%e8%8e%b7%e8%87%aa%e5%ae%9a%e4%b9%89%e5%b1%9e%e6%80%a7.md)
-- C#
+﻿- C#
+	- Blazor
+		- [Blazor Component 捕获自定义属性.md](C%23%2fBlazor%2fBlazor%20Component%20%e6%8d%95%e8%8e%b7%e8%87%aa%e5%ae%9a%e4%b9%89%e5%b1%9e%e6%80%a7.md)
+	- MVC
+		- [全球化和本地化.md](C%23%2fMVC%2f%e5%85%a8%e7%90%83%e5%8c%96%e5%92%8c%e6%9c%ac%e5%9c%b0%e5%8c%96.md)
 	- 性能测试
 		- [Enum 获取 Description 性能问题.md](C%23%2f%e6%80%a7%e8%83%bd%e6%b5%8b%e8%af%95%2fEnum%20%e8%8e%b7%e5%8f%96%20Description%20%e6%80%a7%e8%83%bd%e9%97%ae%e9%a2%98.md)
 	- [反射获取内部类.md](C%23%2f%e5%8f%8d%e5%b0%84%e8%8e%b7%e5%8f%96%e5%86%85%e9%83%a8%e7%b1%bb.md)
