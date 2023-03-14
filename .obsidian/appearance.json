@@ -3,5 +3,5 @@
   "theme": "system",
   "baseFontSize": 16,
   "cssTheme": "",
-  "translucency": true
+  "translucency": false
 }
