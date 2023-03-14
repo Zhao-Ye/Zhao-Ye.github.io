@@ -6,10 +6,8 @@
   "newFileFolderPath": "未整理文档",
   "newLinkFormat": "absolute",
   "attachmentFolderPath": "./attachments",
-  "userIgnoreFilters": [
-    "_sidebar.md",
-    "_coverpage.md"
-  ],
+  "userIgnoreFilters": null,
   "strictLineBreaks": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "tabSize": 2
 }

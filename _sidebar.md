@@ -1,4 +1,4 @@
-﻿- C#
+- C#
 	- Blazor
 		- [Blazor Component 捕获自定义属性.md](C%23%2fBlazor%2fBlazor%20Component%20%e6%8d%95%e8%8e%b7%e8%87%aa%e5%ae%9a%e4%b9%89%e5%b1%9e%e6%80%a7.md)
 	- MVC

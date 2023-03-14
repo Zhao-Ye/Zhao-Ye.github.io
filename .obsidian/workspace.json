@@ -11,8 +11,12 @@
             "id": "7d9393984deacc4d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_coverpage.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 213.5
   },
   "right": {
     "id": "d12349616a9f9b0d",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_coverpage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_coverpage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_coverpage.md"
+              }
             }
           }
         ]
@@ -130,10 +138,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
@@ -142,15 +150,18 @@
   },
   "active": "7d9393984deacc4d",
   "lastOpenFiles": [
+    "未整理文档",
+    "新建文件夹",
+    "_sidebar.md",
+    "README.md",
+    "机动车检测/标准/GB-T 37536/GB-T 37536-2019 《机动车检验机构检测设备期间核查规范》.md",
+    "机动车检测/标准/GB-T 37536/GB-T 37536-2019 《机动车检验机构检测设备期间核查规范》.pdf",
     "C#/MVC/全球化和本地化.md",
     "C#/性能测试/Enum 获取 Description 性能问题.md",
     "C#/性能测试/attachments/2023-01-17 143752.png",
     "未整理文档/C.md",
     "C#/反射获取内部类.md",
     "未整理文档/疑问：TagHelper 属性名称为什么必须使用下划线分隔.md",
-    "README.md",
-    "批处理/远程计算机共享目录自动登录.md",
-    "_sidebar.md",
-    "C#/性能测试/attachments/Pasted image 20221207113356.png"
+    "批处理/远程计算机共享目录自动登录.md"
   ]
 }
