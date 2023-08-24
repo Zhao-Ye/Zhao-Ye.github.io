@@ -1,0 +1,17 @@
+﻿{
+  "ExcludeDirectories": [
+    ".git",
+    ".obsidian",
+    ".trash",
+    ".attachments",
+    "attachments"
+  ],
+  "ExcludeFiles": [
+    "README.md",
+    "_404.md",
+    "_coverpage.md",
+    "_navbar.md",
+    "_sidebar.md"
+  ],
+  "ExcludePaths": null
+}
