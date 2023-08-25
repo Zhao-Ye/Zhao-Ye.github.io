@@ -13,5 +13,6 @@
     "_navbar.md",
     "_sidebar.md"
   ],
-  "ExcludePaths": null
+  "ExcludePaths": null,
+  "WaitForExit" : false
 }
