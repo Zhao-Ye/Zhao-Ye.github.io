@@ -1,7 +1,13 @@
 ﻿- Docsify
 	- [加速访问Github图床](Docsify%2f%e5%8a%a0%e9%80%9f%e8%ae%bf%e9%97%aeGithub%e5%9b%be%e5%ba%8a.md)
 	- [去除Url中#](Docsify%2f%e5%8e%bb%e9%99%a4Url%e4%b8%ad%23.md)
+	- [快速开始](Docsify%2f%e5%bf%ab%e9%80%9f%e5%bc%80%e5%a7%8b.md)
 	- [文件夹样式侧边栏在暗色背景下不清晰](Docsify%2f%e6%96%87%e4%bb%b6%e5%a4%b9%e6%a0%b7%e5%bc%8f%e4%be%a7%e8%be%b9%e6%a0%8f%e5%9c%a8%e6%9a%97%e8%89%b2%e8%83%8c%e6%99%af%e4%b8%8b%e4%b8%8d%e6%b8%85%e6%99%b0.md)
+- DotNet
+	- C#
+		- (●′ω`●) 知识的荒野
+	- DotNetTools
+		- [LibMan](DotNet%2fDotNetTools%2fLibMan.md)
 - Git
 	- Github
 		- [使用Github创建图床](Git%2fGithub%2f%e4%bd%bf%e7%94%a8Github%e5%88%9b%e5%bb%ba%e5%9b%be%e5%ba%8a.md)
@@ -10,3 +16,4 @@
 	- ArchLinux
 		- [安装](Linux%2fArchLinux%2f%e5%ae%89%e8%a3%85.md)
 - [AboutMe](AboutMe.md)
+- [删除wps网盘图标](%e5%88%a0%e9%99%a4wps%e7%bd%91%e7%9b%98%e5%9b%be%e6%a0%87.md)
