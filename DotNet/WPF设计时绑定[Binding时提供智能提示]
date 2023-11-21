@@ -1,0 +1,7 @@
+WPF设计时绑定[Binding时提供智能提示]
+```C#
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+xmlns:vm="clr-namespace:[name].ViewModels"
+d:DataContext="{d:DesignInstance vm:MainViewModel}"
+```
+能在使用代码设置DataContext时，仍能提供智能提示
