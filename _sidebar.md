@@ -6,11 +6,15 @@
 - DotNet
 	- Aspire
 		- [0000.概述](DotNet%2fAspire%2f0000.%e6%a6%82%e8%bf%b0.md)
+	- WinUI3
+		- [0000.概述](DotNet%2fWinUI3%2f0000.%e6%a6%82%e8%bf%b0.md)
 	- [Blazor 接收 URL 参数](DotNet%2fBlazor%20%e6%8e%a5%e6%94%b6%20URL%20%e5%8f%82%e6%95%b0.md)
 	- [Blazor 简单登录](DotNet%2fBlazor%20%e7%ae%80%e5%8d%95%e7%99%bb%e5%bd%95.md)
 	- [LibMan](DotNet%2fLibMan.md)
 	- [Serilog](DotNet%2fSerilog.md)
 	- [SourceGenerator代码生成器](DotNet%2fSourceGenerator%e4%bb%a3%e7%a0%81%e7%94%9f%e6%88%90%e5%99%a8.md)
+	- [WPF绑定的一个小问题](DotNet%2fWPF%e7%bb%91%e5%ae%9a%e7%9a%84%e4%b8%80%e4%b8%aa%e5%b0%8f%e9%97%ae%e9%a2%98.md)
+	- [不自动生成 Shell_NotifyIcon](DotNet%2f%e4%b8%8d%e8%87%aa%e5%8a%a8%e7%94%9f%e6%88%90%20Shell_NotifyIcon.md)
 - Git
 	- Github
 		- [使用Github创建图床](Git%2fGithub%2f%e4%bd%bf%e7%94%a8Github%e5%88%9b%e5%bb%ba%e5%9b%be%e5%ba%8a.md)
@@ -18,6 +22,8 @@
 - Linux
 	- ArchLinux
 		- [安装](Linux%2fArchLinux%2f%e5%ae%89%e8%a3%85.md)
+- Visual Studio
+	- [修改接口默认实现方式](Visual%20Studio%2f%e4%bf%ae%e6%94%b9%e6%8e%a5%e5%8f%a3%e9%bb%98%e8%ae%a4%e5%ae%9e%e7%8e%b0%e6%96%b9%e5%bc%8f.md)
 - Windows
 	- [Win7 Bluetooth Support Service 自动禁用](Windows%2fWin7%20Bluetooth%20Support%20Service%20%e8%87%aa%e5%8a%a8%e7%a6%81%e7%94%a8.md)
 	- [删除AMD显卡桌面右键菜单选项](Windows%2f%e5%88%a0%e9%99%a4AMD%e6%98%be%e5%8d%a1%e6%a1%8c%e9%9d%a2%e5%8f%b3%e9%94%ae%e8%8f%9c%e5%8d%95%e9%80%89%e9%a1%b9.md)
